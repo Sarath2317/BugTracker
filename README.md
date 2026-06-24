@@ -1,16 +1,40 @@
-# React + Vite
+# Bug Tracker (MERN Stack)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+Bug Tracker is a full-stack MERN application that helps users manage software bugs efficiently.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+* User Registration and Login
+* JWT Authentication
+* Create New Bugs
+* View All Bugs
+* Update Bug Status
+* Delete Bugs
+* Dashboard Statistics
+* MongoDB Atlas Integration
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
 
-## Expanding the ESLint configuration
+* MongoDB
+* Express.js
+* React.js
+* Node.js
+* JWT Authentication
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+
+Backend:
+
+npm install
+npm run dev
+
+Frontend:
+
+npm install
+npm run dev
+
+## Author
+
+Medisetti Satya Surya Sarath Babu
